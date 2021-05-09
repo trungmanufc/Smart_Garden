@@ -1,0 +1,156 @@
+{
+  "project_info": {
+    "project_number": "324239407421",
+    "firebase_url": "https://esp32-aaa66-default-rtdb.firebaseio.com",
+    "project_id": "esp32-aaa66",
+    "storage_bucket": "esp32-aaa66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324239407421:android:3fa251ba106930701dad54",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324239407421-h5vpk4mt7aflqfd93iousu12g7tpaadi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5m5sz3eUKTILclw7dNn-73liUNMK1mbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324239407421-h5vpk4mt7aflqfd93iousu12g7tpaadi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324239407421:android:c433ea025a59b3811dad54",
+        "android_client_info": {
+          "package_name": "com.example.kvtm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324239407421-h5vpk4mt7aflqfd93iousu12g7tpaadi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5m5sz3eUKTILclw7dNn-73liUNMK1mbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324239407421-h5vpk4mt7aflqfd93iousu12g7tpaadi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324239407421:android:a721cc62ec30a9801dad54",
+        "android_client_info": {
+          "package_name": "com.example.ledwifi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324239407421-h5vpk4mt7aflqfd93iousu12g7tpaadi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5m5sz3eUKTILclw7dNn-73liUNMK1mbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324239407421-h5vpk4mt7aflqfd93iousu12g7tpaadi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324239407421:android:545370ab7088e4471dad54",
+        "android_client_info": {
+          "package_name": "com.example.smartgarden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324239407421-h5vpk4mt7aflqfd93iousu12g7tpaadi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5m5sz3eUKTILclw7dNn-73liUNMK1mbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324239407421-h5vpk4mt7aflqfd93iousu12g7tpaadi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324239407421:android:f6197b21d15ecdb81dad54",
+        "android_client_info": {
+          "package_name": "com.example.test3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324239407421-h5vpk4mt7aflqfd93iousu12g7tpaadi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5m5sz3eUKTILclw7dNn-73liUNMK1mbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324239407421-h5vpk4mt7aflqfd93iousu12g7tpaadi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
